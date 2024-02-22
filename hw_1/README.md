@@ -13,5 +13,5 @@
 ## Contributing
 
 
-## License
+## Licensee
 

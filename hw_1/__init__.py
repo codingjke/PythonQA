@@ -1,5 +1,5 @@
 """
-Module for demonstrating pylint issues.
+Module for demonstrating pylint issues..
 """
 
 # Your module code here
